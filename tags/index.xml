@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sergi García Ibáñez</title>
-    <link>www.sgarcia.dev/tags/</link>
+    <link>https://www.sgarcia.dev/tags/</link>
     <description>Recent content in Tags on Sergi García Ibáñez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="www.sgarcia.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.sgarcia.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
